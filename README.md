@@ -6,7 +6,8 @@
 <a href="https://github.com/aceyzz/CPP05"><img src="utils/13.png" alt="cpp05" style="width: 80%;">
 <img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
-<a href="https://github.com/aceyzz/CPP06"><img src="utils/20.png" alt="cpp06" style="width: 80%;"></a>
+<a href="https://github.com/aceyzz/CPP06"><img src="utils/20.png" alt="cpp06" style="width: 80%;">
+<img src="utils/100.png" alt="grade" style="width: 19%;"></a>
 
 <a href="https://github.com/aceyzz/CPP07"><img src="utils/21.png" alt="cpp07" style="width: 80%;"></a>
 
